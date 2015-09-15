@@ -1,0 +1,23 @@
+{
+  "name": "fis3-postprocessor-extras_uri",
+  "version": "0.1.0",
+  "description": "fis 资源定位增强",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangyuan/fis3-postprocessor-extras_uri.git"
+  },
+  "keywords": [
+    "fis", "fis3", "uri"
+  ],
+  "author": "jerojiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangyuan/fis-postprocessor-extras_uri/issues"
+  },
+  "homepage": "https://github.com/jiangyuan/fis-postprocessor-extras_uri",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "fis3": "^3.2.0"
+  }
+}
